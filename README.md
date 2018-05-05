@@ -1,3 +1,3 @@
 # zernike-map-app
 
-Started working on something that should already excist.
+We switched to a general repo. [LINK](https://github.com/Zernimap/Zernimap)
